@@ -83,7 +83,7 @@ main{
 .blog-item {
     flex-basis: 250px;
     flex-grow: 1;
-    border: 0px solid green;
+    border: 1px solid green;
   
   
 }
